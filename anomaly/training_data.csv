@@ -1,0 +1,112 @@
+id,city,product,period_key,amount,country,supplier
+1,Taluncemara,Orphenadrine Citrate,5/27/2022,11.94,Indonesia,"PD-Rx Pharmaceuticals, Inc."
+2,Lang,Glycerin,9/17/2021,13.28,China,"Physicians Total Care, Inc."
+3,Palmas de Monte Alto,Hydroxychloroquine Sulfate,5/14/2022,10.49,Brazil,REMEDYREPACK INC.
+4,Koysinceq,"Aconitum napellus, alfalfa, argentum nitricum, aresenicum album, aurum metallicum, baryta carbonica, calcarea phosphorica, Chamomilla, kali phosphoricum, kali arsenicosum, Natrum phosphoricum, Staphysagria, Phosphorus, Stramonium, Ignatia amara, Muriaticum acidum, Gelsemium sempervirens, Passiflora incarnata, Glonoinum, Humulus lupulus, Avena Sativa",9/16/2021,26.91,Iraq,Ionx Holdings d/b/a Hello Life Inc.
+5,Shimoda,Lithium Carbonate,6/23/2022,9.05,Japan,State of Florida DOH Central Pharmacy
+6,Venda Nova,venlafaxine hydrochloride,2/9/2022,,Portugal,"Physicians Total Care, Inc."
+7,Gbadolite,Sulfamethoxazole and Trimethoprim,6/19/2022,22.73,Democratic Republic of the Congo,"Mutual Pharmaceutical Company, Inc."
+8,Wielka Wieś,Guaifenesin,4/15/2022,8.83,Poland,Rugby Laboratories Inc.
+9,Fontaínhas,Ofloxacin,1/18/2022,25.43,Portugal,Keltman Pharmaceuticals Inc.
+10,Amsterdam Noord west,povidine iodine,1/12/2022,10.37,Netherlands,Henry Schein Inc
+11,Doropeti,Aspirin,7/15/2022,25.13,Indonesia,"Stephen L. LaFrance Pharmacy, Inc."
+12,Stęszew,Triclosan,3/17/2022,3.11,Poland,Reckitt Benckiser LLC
+13,Bintawan,HYDROCHLOROTHIAZIDE,10/9/2021,26.55,Philippines,STAT RX USA LLC
+14,Stanowice,AMPICILLIN and SULBACTAM,3/26/2022,,Poland,"Hospira, Inc."
+15,Petrozavodsk,Anti-bacterial Hand Wash,4/3/2022,31.62,Russia,"Xiamen Anna Global Co., Ltd"
+16,Marvdasht,Naloxone Hydrochloride,9/4/2022,4.39,Iran,"General Injectables & Vaccines, Inc."
+17,Xinwu,Naproxen,10/15/2021,14.38,China,"Northwind Pharmaceuticals, LLC"
+18,Huji,Acetaminophen,7/24/2022,24.73,China,CVS Pharmacy
+19,Udon Thani,dextroamphetamine sulfate,10/21/2021,,Thailand,Mallinckrodt Inc.
+20,Panorama,Doxazosin Mesylate,12/5/2021,5.75,Brazil,"DAVA Pharmaceuticals, Inc."
+21,Krajan Karangwage,Piroxicam,10/6/2021,36.21,Indonesia,REMEDYREPACK INC.
+22,Vila do Maio,ANTIHEMOPHILIC FACTOR HUMAN,8/25/2022,,Cape Verde,CSL Behring LLC
+23,Leitões,Ethyl Alcohol,4/7/2022,36.46,Portugal,China Ningbo Shangge Cosmetic Technology Corp
+24,Tarczyn,Fluoxetine Hydrochloride,3/15/2022,17.27,Poland,AvPAK
+25,Nanzhang Chengguanzhen,Minoxidil,1/22/2022,7.35,China,"L'oreal Usa, Inc."
+26,Busdi,Sennosides,11/21/2021,14.45,Philippines,"Premier Value (Chain Drug Consortium, LLC)"
+27,Borlänge,Glycerin,5/23/2022,36.73,Sweden,Major Pharmaceuticals
+28,Chicago,Phenylephrine Hydrochloride,3/8/2022,27.65,United States,"HUB Pharmaceuticals, LLC"
+29,Itapetininga,Nortriptyline Hydrochloride,7/10/2022,24.66,Brazil,REMEDYREPACK INC.
+30,Nīca,lamotrigine,9/29/2021,33.63,Latvia,GlaxoSmithKline LLC
+31,Bang Mun Nak,,9/27/2021,1.78,Thailand,Tri-Coastal Design Company Inc.
+32,København,Homeopathic Liquid,12/26/2021,26.82,Denmark,Energetix Corp
+33,Hagerstown,Enoxaparin sodium,3/3/2022,32.42,United States,"Amphastar Pharmaceuticals, Inc."
+34,Kujama,AETHUSA CYNAPIUM,1/20/2022,30.97,Nigeria,Natural Health Supply
+35,Gaphatshwe,Pantoprazole Sodium Delayed Release,6/2/2022,14.07,Botswana,Northwind Pharmaceuticals
+36,Bakung,,12/24/2021,29.09,Philippines,Fera Pharmaceuticals
+37,Yuanyang Zhen,Sodium Monofluorophosphate,6/24/2022,6.41,China,Dynarex Corporation
+38,Taman,"TITANIUM DIOXIDE, OCTINOXATE",6/15/2022,39.3,Indonesia,Bobbi Brown Professional Cosmetics Inc.
+39,Qal‘ah-ye Na‘īm,,7/28/2022,37.13,Afghanistan,CVS Pharmacy
+40,Lincheng,somatropin,4/29/2022,37.96,China,Novo Nordisk
+41,Saint-Rémy-de-Provence,chlorhexidine gluconate and isopropyl alcohol,6/6/2022,9.34,France,CareFusion 213 LLC
+42,Ganxi,Simvastatin,1/24/2022,23.86,China,REMEDYREPACK INC.
+43,Tarumizu,Calcium Acetate,12/31/2021,14.05,Japan,Cardinal Health
+44,Catanduva,SULFACETAMIDE SODIUM,1/4/2022,32.56,Brazil,"Fera Pharmaceuticals, LLC"
+45,Cimarelang,Natural Medicine,5/16/2022,28.32,Indonesia,King Bio Inc.
+46,Bindura,sertraline hydrochloride,10/22/2021,36.7,Zimbabwe,Rebel Distributors Corp
+47,Qiryat Yam,clonidine hydrochloride,5/4/2022,38.24,Israel,St Marys Medical Park Pharmacy
+48,Nangkaruka,LIDOCAINE HYDROCHLORIDE,8/18/2022,16.02,Indonesia,"APP Pharmaceuticals, LLC"
+49,Rokitno,Allopurinol,7/7/2022,7.35,Poland,Rebel Distributors Corp.
+50,Zuoxi,minoxidil,8/24/2022,7.18,China,Wal-Mart Stores Inc
+51,Ryazan’,sodium fluoride,7/16/2022,,Russia,"Chattem, Inc."
+52,Beo,Cyclophosphamide,12/16/2021,7.86,Indonesia,"Roxane Laboratories, Inc"
+53,,Duloxetine,3/9/2022,27.61,Brazil,Sun Pharma Global FZE
+54,Cabinda,Budesonide,3/15/2022,33.4,Angola,AstraZeneca LP
+55,Mitsuke,ALUMINUM CHLOROHYDRATE,10/9/2021,8.85,Japan,"BB TRADING WORLDWIDE, INC"
+56,Limoeiro do Norte,Somatropin,7/27/2022,33.2,Brazil,Eli Lilly and Company
+57,Luleå,Hydrocodone Bitartrate And Acetaminophen,4/10/2022,,Sweden,A-S Medication Solutions LLC
+58,Dabola,,3/6/2022,22.34,Guinea,Ventura Corporation LTD.
+59,Bazi,Citalopram Hydrobromide,9/15/2021,38.53,China,"Physicians Total Care, Inc."
+60,Muraharjo,Triclosan,9/13/2021,36.4,Indonesia,DSHealthcare
+61,Armação de Búzios,"Vine,",8/5/2022,21.14,Brazil,Apotheca Company
+62,"Laikit, Laikit II (Dimembe)",HYDROCODONE BITARTRATE AND ACETAMINOPHEN,1/9/2022,,Indonesia,STAT Rx USA LLC
+63,San Pedro,vilazodone hydrochloride,3/10/2022,35.29,Mexico,"Forest Laboratories, Inc."
+64,Sidokumpul,Azilsartan kamedoxomil,7/16/2022,37.86,Indonesia,"Takeda Pharmaceuticals America, Inc."
+65,Dāngām,Enalapril maleate and hydrochlorothiazide,6/12/2022,29.88,Afghanistan,Apotex Corp.
+66,Rungis,clonazepam,6/20/2022,11.78,France,Bryant Ranch Prepack
+67,Ungsang,SODIUM CATION,6/4/2022,38.26,South Korea,Natural Health Supply
+68,Nanchoc,"ZINC OXIDE, TITANIUM DIOXIDE, ENSULIZOLE",1/23/2022,2.28,Peru,"LG Household and Healthcare, Inc."
+69,Myasnikyan,Zinc Oxide,8/12/2022,16.09,Armenia,"Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc."
+70,Longshan,CIMETIDINE,4/24/2022,29.55,China,REMEDYREPACK INC.
+71,Cikadu,CEFPROZIL,10/13/2021,37.49,Indonesia,A-S Medication Solutions LLC
+72,Klippan,Quetiapine Fumarate,2/21/2022,16.37,Sweden,Sandoz Inc
+73,Balucuc,"AVOBENZONE, OCTISALATE, and OCTOCRYLENE",12/21/2021,5.37,Philippines,ESTEE LAUDER INC
+74,Bebedahan,Morphine Sulfate,10/19/2021,12.74,Indonesia,Lake Erie Medical DBA Quality Care Products LLC
+75,Sergiyev Posad,Magesium Citrate,7/9/2022,,Russia,"Dolgencorp, LLC"
+76,Mir,Yellow Dock,5/15/2022,18.84,Belarus,"Nelco Laboratories, Inc."
+77,Yaojiagou,Nectarine,4/10/2022,28.87,China,"Nelco Laboratories, Inc."
+78,Longwood,Nicotine Polacrilex,3/5/2022,20.76,Ireland,Meijer Distribution Inc
+79,Maricá,Birch,8/18/2022,28.37,Brazil,"Nelco Laboratories, Inc."
+80,Gojō,"MENTHOL, CAMPHOR",3/1/2022,20.64,Japan,Electrostim Medical Services Inc. d/b/a EMSI
+81,Donghu,gemcitabine,5/18/2022,,China,Dr. Reddy's Laboratories Limited
+82,Hamburg Harvestehude,GUAIFENESIN,2/9/2022,5.7,Germany,Richmond Division of Wyeth
+83,Prokhladnyy,,3/16/2022,4.59,Russia,"Newton Laboratories, Inc."
+84,Zdounky,Salicylic Acid,7/25/2022,28.06,Czech Republic,Laboratoires Industriels de Vichy (LIDV)
+85,Kotkot,Nicotine Polacrilex,11/24/2021,11.22,Philippines,American Sales Company
+86,Mainit,Carvedilol,4/3/2022,3.8,Philippines,Bryant Ranch Prepack
+87,Chalon-sur-Saône,MIDAZOLAM HYDROCHLORIDE,4/13/2022,14.72,France,"Caraco Pharmaceutical Laboratories, Ltd."
+88,Prinza,Pyrithione Zinc,2/17/2022,21.01,Philippines,Procter & Gamble Manufacturing Co.
+89,Las Lomas,Vitamins Tablets,5/24/2022,17.88,Panama,Midlothian Laboratories
+90,Kamakura,Benzocaine,9/4/2022,9.02,Japan,Benco Dental
+91,Sokolo,Pseudoephedrine HCl,5/25/2022,30.02,Mali,Walgreen Company
+92,Capira,Titanium dioxide,11/11/2021,,Panama,SHISEIDO AMERICAS CORPORATION
+93,Santa Cruz,Glipizide,6/29/2022,,Mexico,Aidarex Pharmaceuticals LLC
+94,,OCTREOTIDE ACETATE,2/1/2022,33.97,Philippines,"Fresenius Kabi USA, LLC"
+95,Karagach,Sodium Lactate,10/18/2021,16.51,Russia,Baxter Healthcare Corporation
+96,Aldeias de Cima,,9/8/2021,22.04,Portugal,McKesson
+97,Fontenay-sous-Bois,Metoclopramide,8/28/2022,27.28,France,"Liberty Pharmaceuticals, Inc."
+98,Sanjiang,Aluminum zirconium tetrachlorohydrex gly,3/31/2022,6.16,China,Colgate-Palmolive Company
+99,Carmen,ARIPIPRAZOLE,9/24/2021,30.11,Philippines,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC
+100,Murmansk,Acetaminophen,4/21/2022,10.67,Russia,Kmart Corporation
+100,Murmansk,Acetaminophen,4/21/2022,10.67,Russia,Kmart Corporation
+100,Murmansk,Acetaminophen,4/21/2022,10.67,Russia,Kmart Corporation
+100,Murmansk,Acetaminophen,4/21/2022,10.67,Russia,Kmart Corporation
+100,Murmansk,Acetaminophen,4/21/2022,10.67,Russia,Kmart Corporation
+100,Murmansk,Acetaminophen,4/21/2022,10.67,Russia,Kmart Corporation
+100,Murmansk,Acetaminophen,4/21/2022,10.67,Russia,Kmart Corporation
+100,Murmansk,Acetaminophen,4/21/2022,10.67,Russia,Kmart Corporation
+100,Murmansk,Acetaminophen,4/21/2022,10.67,Russia,Kmart Corporation
+100,Murmansk,Acetaminophen,4/21/2022,10.67,Russia,Kmart Corporation
+100,Murmansk,Acetaminophen,4/21/2022,10.67,Russia,Kmart Corporation
+100,Murmansk,Acetaminophen,4/21/2022,10.67,Russia,Kmart Corporation

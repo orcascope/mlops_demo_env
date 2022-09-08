@@ -1,0 +1,101 @@
+id,city,product,period_key,amount,supplier
+1,Paris 17,SODIUM FLUORIDE,10/15/2021,5.85,"Dr. Fresh, Inc."
+2,Daitōchō,Zolpidem Tartrate,11/21/2021,15.19,Ranbaxy Pharmaceuticals Inc.
+3,Maricá,zolpidem tartrate,11/10/2021,3.86,A-S Medication Solutions LLC
+4,,DOCUSATE SODIUM,11/13/2021,4.61,Cardinal Health (Leader)
+5,Karagandy,PYRITHIONE ZINC,1/27/2022,10.68,Cresson
+6,Morbatoh,Escitalopram,5/27/2022,5.09,"Dispensing Solutions, Inc."
+7,Chenda,Acetazolamide,5/25/2022,8.96,"PD-Rx Pharmaceuticals, Inc."
+8,Västerås,"Aesculus hippocastanum, Arnica montana, Arsenicum album, Hamamelis virginiana, Helonias dioica, Hepar suis, Iris versicolor, Pancreas suis,",6/27/2022,3.73,"Liddell Laboratories, Inc."
+9,Yalagüina,"Dextromethorphan, Guaifenesin, Phenylephrine",1/24/2022,8.39,Advanced Generic Corporation
+10,Téra,PULLULARIA PULLULANS,12/5/2021,7.93,"ALK-Abello, Inc."
+11,Entre Rios,Bismuth Subsalicylate,10/10/2021,,"SDA Laboratories, Inc."
+12,Athlone,,10/3/2021,1.8,Unit Dose Services
+13,Xin’an,Sepia comp.,9/1/2022,13.93,Uriel Pharmacy Inc.
+14,Yongyang,Oxygen,3/12/2022,10.95,"Modern Welding Company, Inc."
+15,Pionerskiy,"Aralia racemosa, Blatta americana, Blatta orientalis, Chelidonium majus, Hydrastis canadensis, Linum usitatissimum, Phosphorus, Sulphur, Trifolium pratense",9/13/2021,10.86,"Native Remedies, LLC"
+16,Yantang,Alcohol,3/9/2022,,"GOJO Industries, Inc."
+17,Pofadder,robinia pseudoacacia pollen,1/1/2022,,"Allergy Laboratories, Inc."
+18,Long Hồ,Anastrozole,11/13/2021,12.91,Dr. Reddy's Laboratories Limited
+19,Santa Cruz,Bay Leaf,10/4/2021,2.72,"Nelco Laboratories, Inc."
+20,San Isidro,,12/8/2021,18.72,"PETNET Solutions, Inc."
+21,Al Ḩusayn,"Echinacea angustifolia, Hydrastis canadensis, Tabebuia impetiginosa, Glandula suprarenalis, Thymus, Thyroidinum, Arsenicum album, Bryonia alba, Cocculus indicus, Colchicum autumnale,",8/8/2022,,Apotheca Company
+22,,"Brompheniramine maleate, Dextromethorphan HBr, Phenylephrine HCl",3/6/2022,9.91,Supervalu Inc
+23,Reshetnikovo,,9/15/2021,4.86,B. Braun Medical Inc.
+24,Montluçon,Sodium Fluoride,1/2/2022,10.9,Procter & Gamble Manufacturing Company
+25,Moxi,ALCOHOL,5/7/2022,1.45,"Core Brands, Inc."
+26,Houten,,1/9/2022,2.91,"Ajou Medics Co., Ltd"
+27,Xiabaishi,Besifloxacin,7/19/2022,,"Physicians Total Care, Inc."
+28,Berbérati,"Adrenalinum, Alfalfa, Ambrosia artemisiaefolia, Anacardium orientale, Argentum nitricum, Avena sativa, Aesculus hippocastanum, flos, Calcarea carbonica, Carboneum oxygenisatum, Carpinus betulus, flos, Citricum acidum, Gelsemium sempervirens, Hypothalamus, Kali phosphoricum, Lecithin, Natrum muriaticum, Olea europaea, flos, Phosphoricum acidum, Pituitarum posterium, Selenium metallicum, Sepia, Silicea, Thyroidinum",11/30/2021,14.8,"Speer Laboratories, LLC"
+29,Micheng,"Octinoxate, Oxybenzone, Titanium Dioxide",12/12/2021,8.97,JAFRA COSMETICS INTERNATIONAL
+30,Tietê,Phoma,5/14/2022,19.83,"Antigen Laboratories, Inc."
+31,Changning,Fluconazole,5/13/2022,4.15,Claris Lifesciences Inc.
+32,Hamburg,TITANIUM DIOXIDE,4/24/2022,4.17,"Inel Cosmetics Co., Ltd."
+33,Delft,DEXTROSE MONOHYDRATE,3/4/2022,11.76,"Hospira, Inc."
+34,Wonorejo,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate",7/28/2022,7.28,DZA Brands LLC
+35,Rancasadang,calcipotriene,9/13/2021,9.48,"Physicians Total Care, Inc."
+36,Farīmān,,11/8/2021,17.98,KAISER FOUNDATION HOSPITALS
+37,Białaczów,DOCUSATE SODIUM,4/10/2022,7.43,"Safeway, Inc."
+38,Reshetikha,ALLANTOIN,6/20/2022,4.52,"Shanghai Yinjing Medical Supplies Co., Ltd."
+39,Thị Trấn Tà Lùng,Ibuprofen and Pseudoephedrine Hydrochloride,8/23/2022,7.19,Safeway Inc.
+40,Ikhtiman,Fentanyl Citrate,7/28/2022,15.59,Baxter Healthcare Corporation
+41,Jeziorzany,providone iodine,6/23/2022,18.09,CareFusion 213 LLC
+42,Khuzdār,Torsemide,4/11/2022,17.52,"Camber Pharmaceuticals, Inc."
+43,Zasip,"Potassium Chloride, Dextrose Monohydrate and Sodium Chloride",11/6/2021,1.5,Baxter Healthcare Corporation
+44,Wāling,Triclosan,7/8/2022,8.27,Supervalu Inc.
+45,Verkhnya Rozhanka,Menthol,10/17/2021,1.99,Performance Health LLC.
+46,Shabo,"Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",7/3/2022,1.25,Supervalu Inc
+47,Al Qūşīyah,GLYCERIN ALLANTOIN,9/22/2021,19.08,MineralHouse Corporation
+48,Socabaya,,9/7/2021,15.14,Topco Associates LLC
+49,Longping,Gemfibrozil,11/18/2021,17.78,Aidarex Pharmaceuticals LLC
+50,Pawak,oxycodone hydrochloride and acetaminophen,3/22/2022,5.01,Bryant Ranch Prepack
+51,San Andrés,albuterol sulfate,8/14/2022,4.94,"Preferred Pharmaceuticals, Inc."
+52,Richmond,CETYLPYRIDINIUM CHLORIDE and HYDROGEN PEROXIDE,12/26/2021,6.63,Sage Products LLC
+53,Kochetok,calcium polycarbophil,11/2/2021,9.62,Qualitest Pharmaceuticals
+54,Uluarang,leflunomide,8/8/2022,19.58,sanofi-aventis U.S. LLC
+55,Limoges,Trace Elements 4,6/27/2022,,"American Regent, Inc."
+56,Kende,desirudin,9/5/2022,15.34,"Marathon Pharmaceuticals, LLC"
+57,Smolenskaya,"Willow, Black Salix nigra",10/25/2021,16.02,Jubilant HollisterStier LLC
+58,Konyshevka,DOCUSATE SODIUM,6/24/2022,2.84,SMART SENSE (Kmart)
+59,Labuhantanggabesar,,5/24/2022,,Clinical Solutions Wholesale
+60,Cadiz,Octinoxate and Titanium Dioxide,7/29/2022,12.76,Ventura Corporation LTD
+61,Magepanda,,12/4/2021,11.57,Target Corporation
+62,Guyi,Progesterone,10/19/2021,15.92,Ferring Pharmaceuticals Inc.
+63,Gorbunki,AP House Dust Mix,1/19/2022,6.46,Jubilant HollisterStier LLC
+64,Sąspów,ARNICA MONTANA,10/3/2021,3.74,Laboratoires Boiron
+65,Sarirejo Satu,Trimipramine maleate,1/15/2022,11.38,Actavis Inc.
+66,Oeiras,Ciprofloxacin hydrochloride,12/7/2021,7.3,Cardinal Health
+67,Solna,ACETYLCYSTEINE,10/22/2021,16.64,"Hospira, Inc."
+68,Rochester,Anticoagulant Citrate Phosphate Dextrose (CPD) AND AS-5 Red Cell Preservative,1/13/2022,7.9,Terumo Corporation
+69,Mangere,Rizatriptan Benzoate,6/17/2022,16.0,Aurobindo Pharma Limited
+70,Gununganyar,Lorazepam,8/22/2022,7.41,"Preferred Pharmaceuticals, Inc"
+71,Zapatero,Tretinoin,7/27/2022,16.38,"OMP, INC."
+72,Mała Wieś,topiramate,7/3/2022,3.64,"Janssen Pharmaceuticals, Inc."
+73,Escada,Piperacillin Sodium and Tazobactam Sodium,4/24/2022,17.88,AuroMedics Pharma LLC
+74,Dolno Palčište,Glycerin,7/29/2022,16.46,"AMI Cosmetic Co.,Ltd."
+75,Merlo,"OCTINOXATE, TITANIUM DIOXIDE, OXYBENZONE",6/21/2022,8.69,Parfums Christian Dior
+76,Ovsyanka,,6/28/2022,19.39,Rebel Distributors Corp.
+77,Palestina,"Titanium Dioxide, Octinoxate, Octisalate, Octocrylene",8/9/2022,2.57,"Have and Be Co., Ltd."
+78,Aldeia da Mata,Titanium dioxide,6/20/2022,6.77,SHISEIDO AMERICAS CORPORATION
+79,Potongan,amiloride hydrocloride,8/27/2022,2.77,"Paddock Laboratories, LLC"
+80,Ituzaingó,Ziprasidone hydrochloride,5/7/2022,12.82,Wockhardt Limited
+81,San José de los Remates,Short Ragweed Pollen Allergen Extract,3/17/2022,13.17,Merck Sharp & Dohme Corp.
+82,Roissy Charles-de-Gaulle,Oxymetazoline HCl,7/13/2022,10.43,"Shopko Stores Operating Co., LLC"
+83,Saxin,Donepezil Hydrochloride,5/11/2022,9.06,Wockhardt Limited
+84,Rättvik,disopyramide phosphate,5/28/2022,3.7,G.D. Searle LLC Division of Pfizer Inc
+85,Barberena,Zonisamide,6/1/2022,9.99,"Physicians Total Care, Inc."
+86,Kaset Sombun,Capsaicin,7/4/2022,13.0,"Chattem, Inc."
+87,Liberia,Zolpidem tartrate,4/5/2022,10.93,Proficient Rx LP
+88,Babice,ALUMINUM ZIRCONIUM OCTACHLOROHYDREX GLY,8/4/2022,,Procter and Gamble Manufacturing Company
+89,Tambarangan,Chlorpromazine Hydrochloride,11/9/2021,18.98,"Physicians Total Care, Inc."
+90,San Isidro,Polyethylene Glycol 3350,12/14/2021,9.14,CVS Pharmacy
+91,Ryazan’,Trace Elements 4,12/25/2021,3.23,"American Regent, Inc."
+92,Jinniu,Calcium carbonate,9/23/2021,17.84,Western Family Foods Inc
+93,Susaki,Losartan Potassium,1/8/2022,19.88,"MedVantx, Inc."
+94,Santos Dumont,Duck Feathers,5/19/2022,10.1,"Nelco Laboratories, Inc."
+95,Velyka Bahachka,Octinoxate and Titanium Dioxide,5/24/2022,10.24,L'Oreal USA Products Inc
+96,Cikeusal,"Padimate O, Petrolatum",4/2/2022,11.47,Walgreen Company
+97,,prazosin hydrochloride,1/9/2022,,Pfizer Laboratories Div Pfizer Inc
+98,Airuk,Sodium Fluoride,8/27/2022,12.79,The Procter & Gamble Manufacturing Company
+99,Novi Slankamen,Zinc Oxide,5/28/2022,14.08,"Arbonne International, LLC"
+100,Watari,Docusate Sodium,7/12/2022,2.3,"The Harvard Drug Group, LLC"

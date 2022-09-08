@@ -1,0 +1,527 @@
+feature {
+  name: "id"
+  type: INT
+  int_domain {
+    max: 10
+  }
+  presence {
+    min_fraction: 1.0
+    min_count: 1
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "city"
+  value_count {
+    min: 1
+    max: 1
+  }
+  type: BYTES
+  domain: "city"
+  presence {
+    min_fraction: 0.99
+    min_count: 1
+  }
+  distribution_constraints {
+    min_domain_mass: 0.0
+  }
+}
+feature {
+  name: "product"
+  value_count {
+    min: 1
+    max: 1
+  }
+  type: BYTES
+  domain: "product"
+  presence {
+    min_count: 1
+  }
+  distribution_constraints {
+    min_domain_mass: 0.0
+  }
+  drift_comparator {
+    infinity_norm {
+      threshold: 0.01
+    }
+  }
+}
+feature {
+  name: "period_key"
+  type: BYTES
+  domain: "period_key"
+  presence {
+    min_fraction: 1.0
+    min_count: 1
+  }
+  distribution_constraints {
+    min_domain_mass: 0.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "amount"
+  value_count {
+    min: 1
+    max: 10
+  }
+  type: FLOAT
+  presence {
+    min_count: 1
+  }
+}
+feature {
+  name: "country"
+  type: BYTES
+  domain: "country"
+  presence {
+    min_fraction: 1.0
+    min_count: 1
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "supplier"
+  type: BYTES
+  domain: "supplier"
+  presence {
+    min_fraction: 1.0
+    min_count: 1
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+string_domain {
+  name: "city"
+  value: "Aldeias de Cima"
+  value: "Amsterdam Noord west"
+  value: "Arma\303\247\303\243o de B\303\272zios"
+  value: "Bakung"
+  value: "Balucuc"
+  value: "Bang Mun Nak"
+  value: "Bazi"
+  value: "Bebedahan"
+  value: "Beo"
+  value: "Bindura"
+  value: "Bintawan"
+  value: "Borl\303\244nge"
+  value: "Busdi"
+  value: "Cabinda"
+  value: "Capira"
+  value: "Carmen"
+  value: "Catanduva"
+  value: "Chalon-sur-Sa\303\264ne"
+  value: "Chicago"
+  value: "Cikadu"
+  value: "Cimarelang"
+  value: "Dabola"
+  value: "Donghu"
+  value: "Doropeti"
+  value: "D\304\201ng\304\201m"
+  value: "Fonta\303\255nhas"
+  value: "Fontenay-sous-Bois"
+  value: "Ganxi"
+  value: "Gaphatshwe"
+  value: "Gbadolite"
+  value: "Goj\305\215"
+  value: "Hagerstown"
+  value: "Hamburg Harvestehude"
+  value: "Huji"
+  value: "Itapetininga"
+  value: "Kamakura"
+  value: "Karagach"
+  value: "Klippan"
+  value: "Kotkot"
+  value: "Koysinceq"
+  value: "Krajan Karangwage"
+  value: "Kujama"
+  value: "K\303\270benhavn"
+  value: "Laikit, Laikit II (Dimembe)"
+  value: "Lang"
+  value: "Las Lomas"
+  value: "Leit\303\265es"
+  value: "Limoeiro do Norte"
+  value: "Lincheng"
+  value: "Longshan"
+  value: "Longwood"
+  value: "Lule\303\245"
+  value: "Mainit"
+  value: "Maric\303\241"
+  value: "Marvdasht"
+  value: "Mir"
+  value: "Mitsuke"
+  value: "Muraharjo"
+  value: "Murmansk"
+  value: "Myasnikyan"
+  value: "Nanchoc"
+  value: "Nangkaruka"
+  value: "Nanzhang Chengguanzhen"
+  value: "N\304\253ca"
+  value: "Palmas de Monte Alto"
+  value: "Panorama"
+  value: "Petrozavodsk"
+  value: "Prinza"
+  value: "Prokhladnyy"
+  value: "Qal\342\200\230ah-ye Na\342\200\230\304\253m"
+  value: "Qiryat Yam"
+  value: "Rokitno"
+  value: "Rungis"
+  value: "Ryazan\342\200\231"
+  value: "Saint-R\303\251my-de-Provence"
+  value: "San Pedro"
+  value: "Sanjiang"
+  value: "Santa Cruz"
+  value: "Sergiyev Posad"
+  value: "Shimoda"
+  value: "Sidokumpul"
+  value: "Sokolo"
+  value: "Stanowice"
+  value: "St\304\231szew"
+  value: "Taluncemara"
+  value: "Taman"
+  value: "Tarczyn"
+  value: "Tarumizu"
+  value: "Udon Thani"
+  value: "Ungsang"
+  value: "Venda Nova"
+  value: "Vila do Maio"
+  value: "Wielka Wie\305\233"
+  value: "Xinwu"
+  value: "Yaojiagou"
+  value: "Yuanyang Zhen"
+  value: "Zdounky"
+  value: "Zuoxi"
+}
+string_domain {
+  name: "product"
+  value: "AETHUSA CYNAPIUM"
+  value: "ALUMINUM CHLOROHYDRATE"
+  value: "AMPICILLIN and SULBACTAM"
+  value: "ANTIHEMOPHILIC FACTOR HUMAN"
+  value: "ARIPIPRAZOLE"
+  value: "AVOBENZONE, OCTISALATE, and OCTOCRYLENE"
+  value: "Acetaminophen"
+  value: "Aconitum napellus, alfalfa, argentum nitricum, aresenicum album, aurum metallicum, baryta carbonica, calcarea phosphorica, Chamomilla, kali phosphoricum, kali arsenicosum, Natrum phosphoricum, Staphysagria, Phosphorus, Stramonium, Ignatia amara, Muriaticum acidum, Gelsemium sempervirens, Passiflora incarnata, Glonoinum, Humulus lupulus, Avena Sativa"
+  value: "Allopurinol"
+  value: "Aluminum zirconium tetrachlorohydrex gly"
+  value: "Anti-bacterial Hand Wash"
+  value: "Aspirin"
+  value: "Azilsartan kamedoxomil"
+  value: "Benzocaine"
+  value: "Birch"
+  value: "Budesonide"
+  value: "CEFPROZIL"
+  value: "CIMETIDINE"
+  value: "Calcium Acetate"
+  value: "Carvedilol"
+  value: "Citalopram Hydrobromide"
+  value: "Cyclophosphamide"
+  value: "Doxazosin Mesylate"
+  value: "Duloxetine"
+  value: "Enalapril maleate and hydrochlorothiazide"
+  value: "Enoxaparin sodium"
+  value: "Ethyl Alcohol"
+  value: "Fluoxetine Hydrochloride"
+  value: "GUAIFENESIN"
+  value: "Glipizide"
+  value: "Glycerin"
+  value: "Guaifenesin"
+  value: "HYDROCHLOROTHIAZIDE"
+  value: "HYDROCODONE BITARTRATE AND ACETAMINOPHEN"
+  value: "Homeopathic Liquid"
+  value: "Hydrocodone Bitartrate And Acetaminophen"
+  value: "Hydroxychloroquine Sulfate"
+  value: "LIDOCAINE HYDROCHLORIDE"
+  value: "Lithium Carbonate"
+  value: "MENTHOL, CAMPHOR"
+  value: "MIDAZOLAM HYDROCHLORIDE"
+  value: "Magesium Citrate"
+  value: "Metoclopramide"
+  value: "Minoxidil"
+  value: "Morphine Sulfate"
+  value: "Naloxone Hydrochloride"
+  value: "Naproxen"
+  value: "Natural Medicine"
+  value: "Nectarine"
+  value: "Nicotine Polacrilex"
+  value: "Nortriptyline Hydrochloride"
+  value: "OCTREOTIDE ACETATE"
+  value: "Ofloxacin"
+  value: "Orphenadrine Citrate"
+  value: "Pantoprazole Sodium Delayed Release"
+  value: "Phenylephrine Hydrochloride"
+  value: "Piroxicam"
+  value: "Pseudoephedrine HCl"
+  value: "Pyrithione Zinc"
+  value: "Quetiapine Fumarate"
+  value: "SODIUM CATION"
+  value: "SULFACETAMIDE SODIUM"
+  value: "Salicylic Acid"
+  value: "Sennosides"
+  value: "Simvastatin"
+  value: "Sodium Lactate"
+  value: "Sodium Monofluorophosphate"
+  value: "Somatropin"
+  value: "Sulfamethoxazole and Trimethoprim"
+  value: "TITANIUM DIOXIDE, OCTINOXATE"
+  value: "Titanium dioxide"
+  value: "Triclosan"
+  value: "Vine,"
+  value: "Vitamins Tablets"
+  value: "Yellow Dock"
+  value: "ZINC OXIDE, TITANIUM DIOXIDE, ENSULIZOLE"
+  value: "Zinc Oxide"
+  value: "chlorhexidine gluconate and isopropyl alcohol"
+  value: "clonazepam"
+  value: "clonidine hydrochloride"
+  value: "dextroamphetamine sulfate"
+  value: "gemcitabine"
+  value: "lamotrigine"
+  value: "minoxidil"
+  value: "povidine iodine"
+  value: "sertraline hydrochloride"
+  value: "sodium fluoride"
+  value: "somatropin"
+  value: "venlafaxine hydrochloride"
+  value: "vilazodone hydrochloride"
+}
+string_domain {
+  name: "period_key"
+  value: "1/12/2022"
+  value: "1/18/2022"
+  value: "1/20/2022"
+  value: "1/22/2022"
+  value: "1/23/2022"
+  value: "1/24/2022"
+  value: "1/4/2022"
+  value: "1/9/2022"
+  value: "10/13/2021"
+  value: "10/15/2021"
+  value: "10/18/2021"
+  value: "10/19/2021"
+  value: "10/21/2021"
+  value: "10/22/2021"
+  value: "10/6/2021"
+  value: "10/9/2021"
+  value: "11/11/2021"
+  value: "11/21/2021"
+  value: "11/24/2021"
+  value: "12/16/2021"
+  value: "12/21/2021"
+  value: "12/24/2021"
+  value: "12/26/2021"
+  value: "12/31/2021"
+  value: "12/5/2021"
+  value: "2/1/2022"
+  value: "2/17/2022"
+  value: "2/21/2022"
+  value: "2/9/2022"
+  value: "3/1/2022"
+  value: "3/10/2022"
+  value: "3/15/2022"
+  value: "3/16/2022"
+  value: "3/17/2022"
+  value: "3/26/2022"
+  value: "3/3/2022"
+  value: "3/31/2022"
+  value: "3/5/2022"
+  value: "3/6/2022"
+  value: "3/8/2022"
+  value: "3/9/2022"
+  value: "4/10/2022"
+  value: "4/13/2022"
+  value: "4/15/2022"
+  value: "4/21/2022"
+  value: "4/24/2022"
+  value: "4/29/2022"
+  value: "4/3/2022"
+  value: "4/7/2022"
+  value: "5/14/2022"
+  value: "5/15/2022"
+  value: "5/16/2022"
+  value: "5/18/2022"
+  value: "5/23/2022"
+  value: "5/24/2022"
+  value: "5/25/2022"
+  value: "5/27/2022"
+  value: "5/4/2022"
+  value: "6/12/2022"
+  value: "6/15/2022"
+  value: "6/19/2022"
+  value: "6/2/2022"
+  value: "6/20/2022"
+  value: "6/23/2022"
+  value: "6/24/2022"
+  value: "6/29/2022"
+  value: "6/4/2022"
+  value: "6/6/2022"
+  value: "7/10/2022"
+  value: "7/15/2022"
+  value: "7/16/2022"
+  value: "7/24/2022"
+  value: "7/25/2022"
+  value: "7/27/2022"
+  value: "7/28/2022"
+  value: "7/7/2022"
+  value: "7/9/2022"
+  value: "8/12/2022"
+  value: "8/18/2022"
+  value: "8/24/2022"
+  value: "8/25/2022"
+  value: "8/28/2022"
+  value: "8/5/2022"
+  value: "9/13/2021"
+  value: "9/15/2021"
+  value: "9/16/2021"
+  value: "9/17/2021"
+  value: "9/24/2021"
+  value: "9/27/2021"
+  value: "9/29/2021"
+  value: "9/4/2022"
+  value: "9/8/2021"
+}
+string_domain {
+  name: "country"
+  value: "Afghanistan"
+  value: "Angola"
+  value: "Armenia"
+  value: "Belarus"
+  value: "Botswana"
+  value: "Brazil"
+  value: "Cape Verde"
+  value: "China"
+  value: "Czech Republic"
+  value: "Democratic Republic of the Congo"
+  value: "Denmark"
+  value: "France"
+  value: "Germany"
+  value: "Guinea"
+  value: "Indonesia"
+  value: "Iran"
+  value: "Iraq"
+  value: "Ireland"
+  value: "Israel"
+  value: "Japan"
+  value: "Latvia"
+  value: "Mali"
+  value: "Mexico"
+  value: "Netherlands"
+  value: "Nigeria"
+  value: "Panama"
+  value: "Peru"
+  value: "Philippines"
+  value: "Poland"
+  value: "Portugal"
+  value: "Russia"
+  value: "South Korea"
+  value: "Sweden"
+  value: "Thailand"
+  value: "United States"
+  value: "Zimbabwe"
+}
+string_domain {
+  name: "supplier"
+  value: "A-S Medication Solutions LLC"
+  value: "APP Pharmaceuticals, LLC"
+  value: "Aidarex Pharmaceuticals LLC"
+  value: "American Sales Company"
+  value: "Amphastar Pharmaceuticals, Inc."
+  value: "Apotex Corp."
+  value: "Apotheca Company"
+  value: "AstraZeneca LP"
+  value: "AvPAK"
+  value: "BB TRADING WORLDWIDE, INC"
+  value: "Baxter Healthcare Corporation"
+  value: "Benco Dental"
+  value: "Bobbi Brown Professional Cosmetics Inc."
+  value: "Bryant Ranch Prepack"
+  value: "CSL Behring LLC"
+  value: "CVS Pharmacy"
+  value: "Caraco Pharmaceutical Laboratories, Ltd."
+  value: "Cardinal Health"
+  value: "CareFusion 213 LLC"
+  value: "Chattem, Inc."
+  value: "China Ningbo Shangge Cosmetic Technology Corp"
+  value: "Colgate-Palmolive Company"
+  value: "DAVA Pharmaceuticals, Inc."
+  value: "DSHealthcare"
+  value: "Dolgencorp, LLC"
+  value: "Dr. Reddy\'s Laboratories Limited"
+  value: "Dynarex Corporation"
+  value: "ESTEE LAUDER INC"
+  value: "Electrostim Medical Services Inc. d/b/a EMSI"
+  value: "Eli Lilly and Company"
+  value: "Energetix Corp"
+  value: "Fera Pharmaceuticals"
+  value: "Fera Pharmaceuticals, LLC"
+  value: "Forest Laboratories, Inc."
+  value: "Fresenius Kabi USA, LLC"
+  value: "General Injectables & Vaccines, Inc."
+  value: "GlaxoSmithKline LLC"
+  value: "HUB Pharmaceuticals, LLC"
+  value: "Henry Schein Inc"
+  value: "Hospira, Inc."
+  value: "Ionx Holdings d/b/a Hello Life Inc."
+  value: "Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc."
+  value: "Keltman Pharmaceuticals Inc."
+  value: "King Bio Inc."
+  value: "Kmart Corporation"
+  value: "L\'oreal Usa, Inc."
+  value: "LG Household and Healthcare, Inc."
+  value: "Laboratoires Industriels de Vichy (LIDV)"
+  value: "Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC"
+  value: "Lake Erie Medical DBA Quality Care Products LLC"
+  value: "Liberty Pharmaceuticals, Inc."
+  value: "Major Pharmaceuticals"
+  value: "Mallinckrodt Inc."
+  value: "McKesson"
+  value: "Meijer Distribution Inc"
+  value: "Midlothian Laboratories"
+  value: "Mutual Pharmaceutical Company, Inc."
+  value: "Natural Health Supply"
+  value: "Nelco Laboratories, Inc."
+  value: "Newton Laboratories, Inc."
+  value: "Northwind Pharmaceuticals"
+  value: "Northwind Pharmaceuticals, LLC"
+  value: "Novo Nordisk"
+  value: "PD-Rx Pharmaceuticals, Inc."
+  value: "Physicians Total Care, Inc."
+  value: "Premier Value (Chain Drug Consortium, LLC)"
+  value: "Procter & Gamble Manufacturing Co."
+  value: "REMEDYREPACK INC."
+  value: "Rebel Distributors Corp"
+  value: "Rebel Distributors Corp."
+  value: "Reckitt Benckiser LLC"
+  value: "Richmond Division of Wyeth"
+  value: "Roxane Laboratories, Inc"
+  value: "Rugby Laboratories Inc."
+  value: "SHISEIDO AMERICAS CORPORATION"
+  value: "STAT RX USA LLC"
+  value: "STAT Rx USA LLC"
+  value: "Sandoz Inc"
+  value: "St Marys Medical Park Pharmacy"
+  value: "State of Florida DOH Central Pharmacy"
+  value: "Stephen L. LaFrance Pharmacy, Inc."
+  value: "Sun Pharma Global FZE"
+  value: "Takeda Pharmaceuticals America, Inc."
+  value: "Tri-Coastal Design Company Inc."
+  value: "Ventura Corporation LTD."
+  value: "Wal-Mart Stores Inc"
+  value: "Walgreen Company"
+  value: "Xiamen Anna Global Co., Ltd"
+}
